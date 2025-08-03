@@ -1,0 +1,57 @@
+/* Center the entire app */
+body {
+  background-color: #f5f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main container */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Heading */
+h2 {
+  color: #2c3e50;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+/* Counter section */
+h3 {
+  color: #34495e;
+}
+
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  margin: 10px 8px;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Input field */
+input[type="text"] {
+  padding: 8px;
+  width: 180px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+/* Euro result text */
+h4 {
+  color: #27ae60;
+  font-weight: 500;
+}
