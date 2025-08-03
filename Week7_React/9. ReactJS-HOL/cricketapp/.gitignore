@@ -1,13 +1,3 @@
-*.class
-# Maven
-target/
-# Java
-*.class
-*.jar
-*.war
-*.log
-hs_err_pid*
-
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
